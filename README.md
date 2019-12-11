@@ -1,2 +1,2 @@
 # Leonardo
-aprender a prgramar o codificar 
+aprendera programar y codificar  
